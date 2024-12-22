@@ -1,0 +1,22 @@
+2024-12-17 17:53:33,433: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-12-17 17:53:35,538: [DEBUG] AdminController-Login: Ðang nh?p
+2024-12-17 17:53:35,765: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-12-17 18:20:19,086: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-12-17 18:20:21,778: [DEBUG] AdminController-Login: Ðang nh?p
+2024-12-17 18:20:21,857: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-12-17 18:22:51,998: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-12-17 18:22:53,324: [DEBUG] AdminController-Login: Ðang nh?p
+2024-12-17 18:22:53,382: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-12-17 18:26:23,243: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-12-17 18:26:30,946: [DEBUG] AdminController-Login: Ðang nh?p
+2024-12-17 18:26:30,993: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-12-17 20:20:21,421: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-12-17 20:20:23,340: [DEBUG] AdminController-Login: Ðang nh?p
+2024-12-17 20:20:23,364: [DEBUG] AdminController-Login: Ðang nh?p th?t b?i
+2024-12-17 20:20:27,930: [DEBUG] AdminController-Login: Ðang nh?p
+2024-12-17 20:20:27,962: [DEBUG] AdminController-Login: Ðang nh?p thành công

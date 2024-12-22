@@ -1,0 +1,18 @@
+2024-11-11 20:20:31,202: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-11-11 20:20:39,393: [DEBUG] AdminController-Login: Ðang nh?p
+2024-11-11 20:20:39,584: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-11-11 20:35:15,139: [DEBUG] AdminController-Login: Ðang nh?p
+2024-11-11 20:35:15,171: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-11-11 20:37:21,945: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-11-11 20:37:32,386: [DEBUG] AdminController-Login: Ðang nh?p
+2024-11-11 20:37:32,445: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-11-11 20:37:44,174: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-11-11 20:37:48,975: [DEBUG] AdminController-Login: Ðang nh?p
+2024-11-11 20:37:49,015: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2024-11-11 20:39:11,919: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Admin\OneDrive\Desktop\doan\Gemini\Controllers\01_Hethong\AdminController.cs:line 33
+2024-11-11 20:39:27,854: [DEBUG] AdminController-Login: Ðang nh?p
+2024-11-11 20:39:27,876: [DEBUG] AdminController-Login: Ðang nh?p thành công
